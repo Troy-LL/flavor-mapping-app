@@ -1,0 +1,664 @@
+{
+    "strawberry": {
+        "name": "Strawberry",
+        "description": "Sweet, fruity, slightly green and caramelic notes.",
+        "allergens": [
+            "Histamine Liberator",
+            "Salicylates",
+            "Fra a 1 (Birch Pollen Cross-Reactivity)"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Furaneol",
+                "percentage": 45.0,
+                "smiles": "CC1=C(C(=O)CC1)O",
+                "is_allergen": false
+            },
+            {
+                "name": "Ethyl Butyrate",
+                "percentage": 25.0,
+                "smiles": "CCCC(=O)OCC",
+                "is_allergen": false
+            },
+            {
+                "name": "Methyl Cinnamate",
+                "percentage": 15.0,
+                "smiles": "COC(=O)/C=C/C1=CC=CC=C1",
+                "is_allergen": true
+            },
+            {
+                "name": "Linalool",
+                "percentage": 8.0,
+                "smiles": "CC(=CCCC(C)(C=C)O)C",
+                "is_allergen": true
+            },
+            {
+                "name": "Hexanal",
+                "percentage": 7.0,
+                "smiles": "CCCCCC=O",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Sweet",
+            "Fruity",
+            "Caramel",
+            "Green",
+            "Jammy"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Vanilla",
+                "Balsamic Vinegar",
+                "Basil",
+                "Black Pepper",
+                "Rhubarb"
+            ],
+            "dish_ideas": [
+                "Strawberry & Balsamic Gazpacho",
+                "Roasted Strawberry Meringue with Basil Oil",
+                "Strawberry-Black Pepper Shrub"
+            ]
+        }
+    },
+    "orange": {
+        "name": "Orange",
+        "description": "Bright, zesty, sweet citrus with soft floral undertones.",
+        "allergens": [
+            "Citrus Oil Sensitization",
+            "Limonene Oxidation Products"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Limonene",
+                "percentage": 85.0,
+                "smiles": "CC1=CCC(CC1)C(=C)C",
+                "is_allergen": true
+            },
+            {
+                "name": "Myrcene",
+                "percentage": 8.0,
+                "smiles": "CC(=CCCC(=C)C=C)C",
+                "is_allergen": false
+            },
+            {
+                "name": "Linalool",
+                "percentage": 4.0,
+                "smiles": "CC(=CCCC(C)(C=C)O)C",
+                "is_allergen": true
+            },
+            {
+                "name": "Octanal",
+                "percentage": 3.0,
+                "smiles": "CCCCCCCC=O",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Citrus",
+            "Zesty",
+            "Sweet",
+            "Floral",
+            "Fresh"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Dark Chocolate",
+                "Clove",
+                "Ginger",
+                "Almond",
+                "Thyme"
+            ],
+            "dish_ideas": [
+                "Orange & Fennel Salad with Thyme Vinaigrette",
+                "Dark Chocolate Ganache with Orange Zest",
+                "Ginger-Orange Glazed Duck"
+            ]
+        }
+    },
+    "vanilla": {
+        "name": "Vanilla",
+        "description": "Rich, warm, sweet, and comforting with woody nuances.",
+        "allergens": [
+            "Vanillin Sensitization (Rare)",
+            "Balsam of Peru Cross-Reactivity"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Vanillin",
+                "percentage": 75.0,
+                "smiles": "COC1=C(C=CC(=C1)C=O)O",
+                "is_allergen": true
+            },
+            {
+                "name": "Piperonal",
+                "percentage": 15.0,
+                "smiles": "C1OC2=C(O1)C=C(C=C2)C=O",
+                "is_allergen": false
+            },
+            {
+                "name": "Eugenol",
+                "percentage": 6.0,
+                "smiles": "COC1=C(C=CC(=C1)CC=C)O",
+                "is_allergen": true
+            },
+            {
+                "name": "Guaiacol",
+                "percentage": 4.0,
+                "smiles": "COC1=CC=CC=C1O",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Sweet",
+            "Woody",
+            "Warm",
+            "Creamy",
+            "Spicy"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Strawberry",
+                "Coffee",
+                "Apple",
+                "Caramel",
+                "Cinnamon"
+            ],
+            "dish_ideas": [
+                "Vanilla Bean Panna Cotta with Strawberry Compote",
+                "Butter-Roasted Apples with Vanilla Miso",
+                "Vanilla-Infused Brown Butter Scallops"
+            ]
+        }
+    },
+    "basil": {
+        "name": "Basil",
+        "description": "Herbaceous, minty, slightly sweet and highly aromatic.",
+        "allergens": [
+            "Lamiaceae Family Sensitization",
+            "Eugenol (Fragrance Mix)"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Estragole",
+                "percentage": 55.0,
+                "smiles": "COC1=CC=C(C=C1)CC=C",
+                "is_allergen": false
+            },
+            {
+                "name": "Linalool",
+                "percentage": 25.0,
+                "smiles": "CC(=CCCC(C)(C=C)O)C",
+                "is_allergen": true
+            },
+            {
+                "name": "Eugenol",
+                "percentage": 15.0,
+                "smiles": "COC1=C(C=CC(=C1)CC=C)O",
+                "is_allergen": true
+            },
+            {
+                "name": "1,8-Cineole",
+                "percentage": 5.0,
+                "smiles": "CC1(C2CCC(O1)(CC2)C)C",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Herbal",
+            "Fresh",
+            "Minty",
+            "Anise",
+            "Clove-like"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Tomato",
+                "Strawberry",
+                "Lemon",
+                "Garlic",
+                "Pine Nut"
+            ],
+            "dish_ideas": [
+                "Strawberry and Basil Seed Pudding",
+                "Classic Caprese with Aged Balsamic",
+                "Lemon-Basil Sorbet"
+            ]
+        }
+    },
+    "clove": {
+        "name": "Clove",
+        "description": "Intensely warm, pungent, sweet, and medicinal.",
+        "allergens": [
+            "Eugenol Sensitization",
+            "Contact Dermatitis"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Eugenol",
+                "percentage": 80.0,
+                "smiles": "COC1=C(C=CC(=C1)CC=C)O",
+                "is_allergen": true
+            },
+            {
+                "name": "Eugenyl Acetate",
+                "percentage": 10.0,
+                "smiles": "CC(=O)OC1=C(C=C(C=C1)CC=C)OC",
+                "is_allergen": false
+            },
+            {
+                "name": "Caryophyllene",
+                "percentage": 10.0,
+                "smiles": "CC1=CCCC(=C)C2CC2C1(C)C",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Spicy",
+            "Warm",
+            "Medicinal",
+            "Woody",
+            "Sweet"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Orange",
+                "Ham",
+                "Apple",
+                "Cinnamon",
+                "Cardamom"
+            ],
+            "dish_ideas": [
+                "Spiced Braised Red Cabbage",
+                "Orange and Clove Glazed Ham",
+                "Clove-Spiced Poached Pears"
+            ]
+        }
+    },
+    "chocolate": {
+        "name": "Dark Chocolate",
+        "description": "Deep, bitter, roasted, with subtle earthy and fruity notes.",
+        "allergens": [
+            "Cocoa Sensitization",
+            "Tyramine (Migraine Trigger)",
+            "Caffeine Sensitivity"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Theobromine",
+                "percentage": 40.0,
+                "smiles": "CN1C=NC2=C1C(=O)NC(=O)N2C",
+                "is_allergen": false
+            },
+            {
+                "name": "Pyrazine",
+                "percentage": 30.0,
+                "smiles": "C1=CN=CC=N1",
+                "is_allergen": false
+            },
+            {
+                "name": "Isoamyl Acetate",
+                "percentage": 15.0,
+                "smiles": "CC(C)CCOC(=O)C",
+                "is_allergen": false
+            },
+            {
+                "name": "Vanillin",
+                "percentage": 15.0,
+                "smiles": "COC1=C(C=CC(=C1)C=O)O",
+                "is_allergen": true
+            }
+        ],
+        "flavor_notes": [
+            "Roasted",
+            "Bitter",
+            "Earthy",
+            "Rich",
+            "Nutty"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Orange",
+                "Chili",
+                "Sea Salt",
+                "Raspberry",
+                "Coffee"
+            ],
+            "dish_ideas": [
+                "Dark Chocolate and Orange Truffles",
+                "Chili-Infused Dark Chocolate Tart",
+                "Mocha Panna Cotta"
+            ]
+        }
+    },
+    "beef": {
+        "name": "Beef (Roasted)",
+        "description": "Deeply savory, umami-rich, metallic, and roasted notes from Maillard reaction.",
+        "allergens": [
+            "Alpha-gal Syndrome (Rare)"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Methional",
+                "percentage": 35.0,
+                "smiles": "CSCCC=O",
+                "is_allergen": false
+            },
+            {
+                "name": "2-Methylfuran",
+                "percentage": 25.0,
+                "smiles": "CC1=CC=CO1",
+                "is_allergen": false
+            },
+            {
+                "name": "1-Octen-3-ol",
+                "percentage": 20.0,
+                "smiles": "CCCCCC(C=C)O",
+                "is_allergen": false
+            },
+            {
+                "name": "Oleic acid",
+                "percentage": 20.0,
+                "smiles": "CCCCCCCCC=CCCCCCCCC(=O)O",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Savory",
+            "Roasted",
+            "Umami",
+            "Metallic",
+            "Meaty"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Mushroom",
+                "Black Pepper",
+                "Coffee",
+                "Garlic",
+                "Red Wine"
+            ],
+            "dish_ideas": [
+                "Coffee-Rubbed Steak",
+                "Beef Skewers with Garlic-Peppercorn Glaze",
+                "Umami Burger with Red Wine Jam"
+            ]
+        }
+    },
+    "salmon": {
+        "name": "Salmon (Raw)",
+        "description": "Clean, fatty, slightly sweet, marine, and cucumber-like freshness.",
+        "allergens": [
+            "Fish/Salmon Allergy",
+            "Parvalbumin"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "DHA (Docosahexaenoic Acid)",
+                "percentage": 40.0,
+                "smiles": "CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O",
+                "is_allergen": false
+            },
+            {
+                "name": "Trimethylamine",
+                "percentage": 30.0,
+                "smiles": "CN(C)C",
+                "is_allergen": false
+            },
+            {
+                "name": "Hexanal",
+                "percentage": 20.0,
+                "smiles": "CCCCCC=O",
+                "is_allergen": false
+            },
+            {
+                "name": "Astaxanthin",
+                "percentage": 10.0,
+                "smiles": "CC1=C(C(CC(C1)(C)C)O)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=C(C(=O)CC2(C)C)C)O)C)C",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Marine",
+            "Fatty",
+            "Sweet",
+            "Cucumber",
+            "Fresh"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Dill",
+                "Lemon",
+                "Carrot",
+                "Soy Sauce",
+                "Avocado"
+            ],
+            "dish_ideas": [
+                "Salmon Crudo with Dill & Lemon",
+                "Soy-Glazed Salmon Bowl",
+                "Smoked Salmon and Carrot Ribbons"
+            ]
+        }
+    },
+    "garlic": {
+        "name": "Garlic (Roasted)",
+        "description": "Pungent, sulfuric, sweet, mellow, and deeply savory when roasted.",
+        "allergens": [
+            "Garlic Allergy",
+            "Diallyl Disulfide Sensitization"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Diallyl Disulfide",
+                "percentage": 50.0,
+                "smiles": "C=CCSSCC=C",
+                "is_allergen": true
+            },
+            {
+                "name": "Allicin",
+                "percentage": 30.0,
+                "smiles": "C=CCS(=O)SCC=C",
+                "is_allergen": true
+            },
+            {
+                "name": "Allyl Methyl Sulfide",
+                "percentage": 10.0,
+                "smiles": "C=CCSC",
+                "is_allergen": false
+            },
+            {
+                "name": "Ajoene",
+                "percentage": 10.0,
+                "smiles": "C=CCS(=O)CC=CSSCC=C",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Pungent",
+            "Sulfuric",
+            "Sweet",
+            "Savory",
+            "Earthy"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Beef",
+                "Tomato",
+                "Basil",
+                "Butter",
+                "Mushroom"
+            ],
+            "dish_ideas": [
+                "Roasted Garlic Butter Steak",
+                "Tomato and Garlic Confit",
+                "Mushroom & Garlic Aglio e Olio"
+            ]
+        }
+    },
+    "carrot": {
+        "name": "Carrot",
+        "description": "Sweet, earthy, woody, and slightly floral root vegetable.",
+        "allergens": [
+            "Birch Pollen Cross-Reactivity",
+            "Apiaceae Allergy"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Beta-Carotene",
+                "percentage": 45.0,
+                "smiles": "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=CCCC2(C)C)C)C)C",
+                "is_allergen": false
+            },
+            {
+                "name": "Terpinolene",
+                "percentage": 25.0,
+                "smiles": "CC1=CCC(CC1)=C(C)C",
+                "is_allergen": false
+            },
+            {
+                "name": "Beta-Caryophyllene",
+                "percentage": 15.0,
+                "smiles": "CC1=CCCC(=C)C2CC2C1(C)C",
+                "is_allergen": false
+            },
+            {
+                "name": "Myrcene",
+                "percentage": 15.0,
+                "smiles": "CC(=CCCC(=C)C=C)C",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Sweet",
+            "Earthy",
+            "Woody",
+            "Floral",
+            "Rooty"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Ginger",
+                "Orange",
+                "Cinnamon",
+                "Salmon",
+                "Walnut"
+            ],
+            "dish_ideas": [
+                "Roasted Carrots with Orange & Ginger Glaze",
+                "Spiced Carrot Soup with Cinnamon",
+                "Carrot Ribbon Salad with Salmon"
+            ]
+        }
+    },
+    "cinnamon": {
+        "name": "Cinnamon",
+        "description": "Sweet, warm, woody, spicy, and fiercely aromatic.",
+        "allergens": [
+            "Cinnamaldehyde Allergy",
+            "Eugenol",
+            "Coumarin"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Cinnamaldehyde",
+                "percentage": 65.0,
+                "smiles": "C1=CC=C(C=C1)C=CC=O",
+                "is_allergen": true
+            },
+            {
+                "name": "Eugenol",
+                "percentage": 15.0,
+                "smiles": "COC1=C(C=CC(=C1)CC=C)O",
+                "is_allergen": true
+            },
+            {
+                "name": "Coumarin",
+                "percentage": 10.0,
+                "smiles": "C1=CC2=C(C=C1)C=CC(=O)O2",
+                "is_allergen": true
+            },
+            {
+                "name": "Linalool",
+                "percentage": 10.0,
+                "smiles": "CC(=CCCC(C)(C=C)O)C",
+                "is_allergen": true
+            }
+        ],
+        "flavor_notes": [
+            "Warm",
+            "Spicy",
+            "Woody",
+            "Sweet",
+            "Pungent"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Apple",
+                "Vanilla",
+                "Chocolate",
+                "Carrot",
+                "Coffee"
+            ],
+            "dish_ideas": [
+                "Cinnamon Spiced Carrot Cake",
+                "Mexican Hot Chocolate",
+                "Vanilla & Cinnamon Poached Apples"
+            ]
+        }
+    },
+    "black_pepper": {
+        "name": "Black Pepper",
+        "description": "Sharp, spicy, piney, woody, and hot.",
+        "allergens": [
+            "Piperine Sensitivity",
+            "Spice Sensitization"
+        ],
+        "aroma_compounds": [
+            {
+                "name": "Piperine",
+                "percentage": 50.0,
+                "smiles": "C1CCN(CC1)C(=O)C=CC=CC2=CC3=C(C=C2)OCO3",
+                "is_allergen": true
+            },
+            {
+                "name": "Pinene",
+                "percentage": 20.0,
+                "smiles": "CC1=CCC2CC1C2(C)C",
+                "is_allergen": false
+            },
+            {
+                "name": "Limonene",
+                "percentage": 15.0,
+                "smiles": "CC1=CCC(CC1)C(=C)C",
+                "is_allergen": true
+            },
+            {
+                "name": "Caryophyllene",
+                "percentage": 15.0,
+                "smiles": "CC1=CCCC(=C)C2CC2C1(C)C",
+                "is_allergen": false
+            }
+        ],
+        "flavor_notes": [
+            "Spicy",
+            "Sharp",
+            "Piney",
+            "Hot",
+            "Woody"
+        ],
+        "pairings": {
+            "solo_pairings": [
+                "Beef",
+                "Strawberry",
+                "Lemon",
+                "Garlic",
+                "Cheese"
+            ],
+            "dish_ideas": [
+                "Cacio e Pepe",
+                "Pepper-Crusted Beef Steak",
+                "Strawberry-Black Pepper Shrub"
+            ]
+        }
+    }
+}

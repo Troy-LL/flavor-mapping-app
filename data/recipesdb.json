@@ -1,0 +1,931 @@
+{
+    "Strawberry & Balsamic Gazpacho": {
+        "name": "Strawberry & Balsamic Gazpacho",
+        "description": "A refreshing, vibrant cold soup balancing the jammy sweetness of strawberries with the sharp acidity of aged balsamic.",
+        "ingredients_list": [
+            "1 lb Fresh Strawberries",
+            "2 tbsp Aged Balsamic Vinegar",
+            "1/2 Cucumber, peeled",
+            "1/4 Red Bell Pepper",
+            "1 tbsp Olive Oil",
+            "Pinch of Black Pepper"
+        ],
+        "instructions": [
+            "Hull and roughly chop the strawberries.",
+            "Combine strawberries, cucumber, red bell pepper, and balsamic vinegar in a blender.",
+            "Blend on high until completely smooth.",
+            "With the blender running on low, slowly drizzle in the olive oil.",
+            "Chill for at least 2 hours before serving. Garnish with cracked black pepper."
+        ],
+        "allergen_warnings": [
+            "Histamine Liberator (Strawberries)",
+            "Salicylates (Strawberries, Cucumber, Bell Pepper)",
+            "Nightshade (Bell Pepper)"
+        ],
+        "key_flavor_molecules": [
+            "Furaneol",
+            "Linalool",
+            "Limonene"
+        ]
+    },
+    "Roasted Strawberry Meringue with Basil Oil": {
+        "name": "Roasted Strawberry Meringue with Basil Oil",
+        "description": "An elegant dessert featuring the concentrated caramel notes of roasted strawberries, contrasted with aromatic basil.",
+        "ingredients_list": [
+            "2 cups Strawberries, halved",
+            "1/4 cup Sugar",
+            "4 Egg Whites",
+            "1/4 cup Fresh Basil Leaves",
+            "1/4 cup Neutral Oil"
+        ],
+        "instructions": [
+            "Toss strawberries in a tablespoon of sugar and roast at 350°F (175°C) for 20 minutes.",
+            "Make the basil oil by blanching basil leaves for 10 seconds, chilling in ice water, then blending with neutral oil and straining.",
+            "Whip egg whites to soft peaks, slowly add remaining sugar until stiff, glossy peaks form.",
+            "Bake meringue nests at 225°F (105°C) for 90 minutes until dry.",
+            "Serve meringues filled with roasted strawberries and drizzled with basil oil."
+        ],
+        "allergen_warnings": [
+            "Egg (Meringue)",
+            "Histamine Liberator (Strawberries)",
+            "Lamiaceae Family Sensitization (Basil)"
+        ],
+        "key_flavor_molecules": [
+            "Furaneol",
+            "Estragole",
+            "Eugenol"
+        ]
+    },
+    "Strawberry-Black Pepper Shrub": {
+        "name": "Strawberry-Black Pepper Shrub",
+        "description": "A complex drinking vinegar that marries the sweet-tart profile of strawberries with the warming spice of black pepper.",
+        "ingredients_list": [
+            "2 cups Strawberries, chopped",
+            "1 cup Apple Cider Vinegar",
+            "1 cup Sugar",
+            "1 tsp Whole Black Peppercorns, lightly crushed"
+        ],
+        "instructions": [
+            "Combine strawberries, sugar, and crushed black peppercorns in a bowl. Muddle slightly.",
+            "Cover and let sit at room temperature for 24-48 hours to create a syrup (oleo saccharum).",
+            "Strain the syrup, discarding the solids.",
+            "Stir the apple cider vinegar into the syrup.",
+            "Bottle and refrigerate for at least a week to mellow before using in cocktails or sodas."
+        ],
+        "allergen_warnings": [
+            "Histamine Liberator (Strawberries)",
+            "Salicylates (Strawberries)"
+        ],
+        "key_flavor_molecules": [
+            "Furaneol",
+            "Ethyl Butyrate",
+            "Piperine"
+        ]
+    },
+    "Orange & Fennel Salad with Thyme Vinaigrette": {
+        "name": "Orange & Fennel Salad with Thyme Vinaigrette",
+        "description": "A crisp, bright salad where the zesty citrus cuts through the licorice notes of the fennel.",
+        "ingredients_list": [
+            "2 Oranges, segmented",
+            "1 large Fennel Bulb, shaved thin",
+            "1/4 cup Olive Oil",
+            "1 tbsp White Wine Vinegar",
+            "1 tsp Fresh Thyme Leaves"
+        ],
+        "instructions": [
+            "Whisk olive oil, white wine vinegar, and fresh thyme to create the vinaigrette.",
+            "Layer shaved fennel on a serving platter.",
+            "Arrange orange segments over the fennel.",
+            "Drizzle generously with the thyme vinaigrette and serve immediately."
+        ],
+        "allergen_warnings": [
+            "Citrus Oil Sensitization (Oranges)"
+        ],
+        "key_flavor_molecules": [
+            "Limonene",
+            "Anethole",
+            "Carvacrol"
+        ]
+    },
+    "Dark Chocolate Ganache with Orange Zest": {
+        "name": "Dark Chocolate Ganache with Orange Zest",
+        "description": "A classic pairing where the bright essential oils of the orange zest lift the deep, earthy bitterness of dark chocolate.",
+        "ingredients_list": [
+            "8 oz 70% Dark Chocolate, chopped",
+            "1/2 cup Heavy Cream",
+            "Zest of 1 Orange",
+            "Pinch of Flaky Sea Salt"
+        ],
+        "instructions": [
+            "Place chopped chocolate in a heat-proof bowl.",
+            "Heat cream and orange zest until just simmering, then remove from heat and let steep for 10 minutes.",
+            "Re-warm the cream slightly if needed, then pour over the chocolate.",
+            "Let sit for 3 minutes, then gently whisk from the center outwards until smooth and glossy.",
+            "Pour into serving vessels and top with flaky sea salt. Chill until set."
+        ],
+        "allergen_warnings": [
+            "Dairy (Heavy Cream)",
+            "Cocoa Sensitization (Dark Chocolate)",
+            "Caffeine/Tyramine (Dark Chocolate)",
+            "Citrus Oil Sensitization (Orange Zest)"
+        ],
+        "key_flavor_molecules": [
+            "Theobromine",
+            "Isoamyl Acetate",
+            "Limonene"
+        ]
+    },
+    "Ginger-Orange Glazed Duck": {
+        "name": "Ginger-Orange Glazed Duck",
+        "description": "A savory-sweet centerpiece where the pungent ginger and zesty orange cut through the rich fat of the duck.",
+        "ingredients_list": [
+            "1 whole Duck, skin scored",
+            "1 cup Orange Juice",
+            "3 tbsp Fresh Ginger, grated",
+            "2 tbsp Soy Sauce",
+            "2 tbsp Honey"
+        ],
+        "instructions": [
+            "Roast the duck at 350°F (175°C) for 1.5 hours, pricking the skin to release fat.",
+            "In a saucepan, combine orange juice, ginger, soy sauce, and honey. Simmer until reduced by half.",
+            "Brush the duck with the glaze every 10 minutes during the last 30 minutes of roasting.",
+            "Rest the duck for 15 minutes before carving."
+        ],
+        "allergen_warnings": [
+            "Soy (Soy Sauce)",
+            "Wheat/Gluten (Soy Sauce - unless Tamari is used)",
+            "Citrus Oil Sensitization (Orange)"
+        ],
+        "key_flavor_molecules": [
+            "Limonene",
+            "Zingerone",
+            "Octanal"
+        ]
+    },
+    "Vanilla Bean Panna Cotta with Strawberry Compote": {
+        "name": "Vanilla Bean Panna Cotta with Strawberry Compote",
+        "description": "A creamy, delicate dessert that acts as a perfect canvas for the sweet-tart strawberry topping.",
+        "ingredients_list": [
+            "2 cups Heavy Cream",
+            "1/4 cup Sugar",
+            "1 Vanilla Bean, split and scraped",
+            "1.5 tsp Unflavored Gelatin",
+            "1 cup Strawberries, cooked with 1 tbsp sugar"
+        ],
+        "instructions": [
+            "Bloom gelatin in 2 tablespoons of cold water.",
+            "In a saucepan, heat cream, sugar, and vanilla bean (seeds and pod) until gently simmering.",
+            "Remove from heat, discard the vanilla pod, and whisk in the bloomed gelatin until dissolved.",
+            "Divide mixture into ramekins and chill for 4 hours until set.",
+            "Serve topped with the chilled strawberry compote."
+        ],
+        "allergen_warnings": [
+            "Dairy (Heavy Cream)",
+            "Balsam of Peru Cross-Reactivity (Vanilla)",
+            "Histamine Liberator (Strawberries)"
+        ],
+        "key_flavor_molecules": [
+            "Vanillin",
+            "Furaneol"
+        ]
+    },
+    "Butter-Roasted Apples with Vanilla Miso": {
+        "name": "Butter-Roasted Apples with Vanilla Miso",
+        "description": "An umami-rich dessert where savory miso paste unexpectedly enhances the sweet, floral notes of vanilla and baked apple.",
+        "ingredients_list": [
+            "4 Apples, cored and halved",
+            "4 tbsp Unsalted Butter",
+            "1 tbsp White Miso Paste",
+            "1 tsp Vanilla Extract",
+            "2 tbsp Brown Sugar"
+        ],
+        "instructions": [
+            "Preheat oven to 375°F (190°C).",
+            "Melt the butter, then whisk in the miso paste, vanilla extract, and brown sugar until smooth.",
+            "Brush the mixture generously over the cut sides of the apples.",
+            "Roast for 30-40 minutes until tender, brushing with pan juices halfway through."
+        ],
+        "allergen_warnings": [
+            "Dairy (Butter)",
+            "Soy (Miso Paste)",
+            "Balsam of Peru Cross-Reactivity (Vanilla)"
+        ],
+        "key_flavor_molecules": [
+            "Damascenone",
+            "Vanillin",
+            "Guaiacol"
+        ]
+    },
+    "Vanilla-Infused Brown Butter Scallops": {
+        "name": "Vanilla-Infused Brown Butter Scallops",
+        "description": "A luxurious savory dish where the subtle floral woody notes of vanilla bridge the sweet ocean flavor of the scallops.",
+        "ingredients_list": [
+            "1 lb Sea Scallops, patted dry",
+            "3 tbsp Unsalted Butter",
+            "1/2 Vanilla Bean, seeds scraped",
+            "1 tsp Lemon Juice",
+            "Salt and Pepper"
+        ],
+        "instructions": [
+            "Season scallops with salt and pepper.",
+            "Melt butter in a skillet over medium heat. Sear scallops for 2 minutes per side until deeply crusted.",
+            "In the last minute of cooking, add the vanilla bean seeds to the butter. It will foam and brown.",
+            "Remove scallops. Add lemon juice to the brown butter to deglaze.",
+            "Drizzle the vanilla brown butter over the scallops to serve."
+        ],
+        "allergen_warnings": [
+            "Shellfish (Scallops)",
+            "Dairy (Butter)"
+        ],
+        "key_flavor_molecules": [
+            "Dimethyl Sulfide",
+            "Vanillin"
+        ]
+    },
+    "Strawberry and Basil Seed Pudding": {
+        "name": "Strawberry and Basil Seed Pudding",
+        "description": "A textured, vibrant breakfast pudding combining the chia-like gel of basil seeds with fresh strawberry puree.",
+        "ingredients_list": [
+            "2 tbsp Sweet Basil Seeds (Tukmaria)",
+            "1 cup Almond Milk",
+            "1/2 cup Strawberries, pureed",
+            "1 tbsp Honey or Maple Syrup"
+        ],
+        "instructions": [
+            "Mix the basil seeds with the almond milk and sweetener. Let sit for 15 minutes to gel, stirring once.",
+            "Layer the basil seed pudding in a glass with the fresh strawberry puree.",
+            "Refrigerate for an hour before eating to allow flavors to meld."
+        ],
+        "allergen_warnings": [
+            "Tree Nuts (Almond Milk)",
+            "Histamine Liberator (Strawberries)",
+            "Lamiaceae Family Sensitization (Basil Seeds)"
+        ],
+        "key_flavor_molecules": [
+            "Linalool",
+            "Furaneol"
+        ]
+    },
+    "Classic Caprese with Aged Balsamic": {
+        "name": "Classic Caprese with Aged Balsamic",
+        "description": "The quintessential Italian salad showcasing the perfection of fresh basil alongside sweet tomatoes and creamy mozzarella.",
+        "ingredients_list": [
+            "2 large Heirloom Tomatoes, thickly sliced",
+            "8 oz Fresh Mozzarella, thickly sliced",
+            "1 cup Fresh Basil Leaves",
+            "2 tbsp Extra Virgin Olive Oil",
+            "1 tbsp Aged Balsamic Vinegar",
+            "Flaky Sea Salt"
+        ],
+        "instructions": [
+            "Arrange alternating slices of tomato and mozzarella on a platter.",
+            "Tuck fresh basil leaves between the slices.",
+            "Drizzle generously with olive oil and aged balsamic vinegar.",
+            "Finish with flaky sea salt just before serving."
+        ],
+        "allergen_warnings": [
+            "Dairy (Mozzarella)",
+            "Nightshade (Tomatoes)",
+            "Lamiaceae Family Sensitization (Basil)"
+        ],
+        "key_flavor_molecules": [
+            "Estragole",
+            "Hexanal",
+            "Eugenol"
+        ]
+    },
+    "Lemon-Basil Sorbet": {
+        "name": "Lemon-Basil Sorbet",
+        "description": "An incredibly refreshing palate cleanser where herbaceous basil tempers the sharp acidity of lemon.",
+        "ingredients_list": [
+            "1 cup Water",
+            "1 cup Sugar",
+            "1 cup Fresh Basil Leaves",
+            "1 cup Fresh Lemon Juice"
+        ],
+        "instructions": [
+            "Make a simple syrup by boiling water and sugar until dissolved. Remove from heat.",
+            "Add basil leaves to the hot syrup and steep for 30 minutes. Strain.",
+            "Mix the basil-infused syrup with the freshly squeezed lemon juice.",
+            "Chill the mixture thoroughly, then churn in an ice cream maker according to manufacturer instructions."
+        ],
+        "allergen_warnings": [
+            "Lamiaceae Family Sensitization (Basil)",
+            "Citrus Oil Sensitization (Lemon)"
+        ],
+        "key_flavor_molecules": [
+            "Limonene",
+            "Linalool",
+            "Citral"
+        ]
+    },
+    "Spiced Braised Red Cabbage": {
+        "name": "Spiced Braised Red Cabbage",
+        "description": "A deeply flavorful side dish where the robust warmth of clove permeates the sweet and sour braised cabbage.",
+        "ingredients_list": [
+            "1 head Red Cabbage, shredded",
+            "1 Apple, grated",
+            "1/4 cup Apple Cider Vinegar",
+            "2 tbsp Brown Sugar",
+            "3 Whole Cloves",
+            "2 tbsp Butter"
+        ],
+        "instructions": [
+            "Melt butter in a large pot. Add shredded cabbage and grated apple, sautéing until slightly softened.",
+            "Add vinegar, brown sugar, and whole cloves. Stir well.",
+            "Cover and simmer on low heat for 45-60 minutes until very tender.",
+            "Remove the whole cloves before serving."
+        ],
+        "allergen_warnings": [
+            "Dairy (Butter)",
+            "Eugenol Sensitization (Cloves)"
+        ],
+        "key_flavor_molecules": [
+            "Eugenol",
+            "Ethyl Butyrate"
+        ]
+    },
+    "Orange and Clove Glazed Ham": {
+        "name": "Orange and Clove Glazed Ham",
+        "description": "A holiday classic. Whole cloves studded into the ham infuse the meat with deep spice, while the orange glaze provides necessary acidity.",
+        "ingredients_list": [
+            "1 Bone-in Smoked Ham",
+            "1/4 cup Whole Cloves (for studding)",
+            "1 cup Orange Marmalade",
+            "1/4 cup Dijon Mustard",
+            "1/4 cup Brown Sugar"
+        ],
+        "instructions": [
+            "Score the fat of the ham in a diamond pattern. Press a whole clove into the center of each diamond.",
+            "Bake the ham at 325°F (160°C) until warmed through (about 15 mins per pound).",
+            "Whisk marmalade, mustard, and brown sugar to create the glaze.",
+            "Brush the glaze over the ham heavily during the last 30 minutes of baking, until caramelized."
+        ],
+        "allergen_warnings": [
+            "Pork (Ham)",
+            "Mustard (Dijon)",
+            "Citrus Oil Sensitization (Orange Marmalade)",
+            "Eugenol Sensitization (Cloves)"
+        ],
+        "key_flavor_molecules": [
+            "Eugenol",
+            "Limonene",
+            "Allyl Isothiocyanate"
+        ]
+    },
+    "Clove-Spiced Poached Pears": {
+        "name": "Clove-Spiced Poached Pears",
+        "description": "An elegant dessert where pears gently absorb the complex, warm medicinal spice of clove and wine.",
+        "ingredients_list": [
+            "4 Bosc Pears, peeled with stems on",
+            "1 bottle Dry Red Wine",
+            "1 cup Sugar",
+            "5 Whole Cloves",
+            "1 Cinnamon Stick"
+        ],
+        "instructions": [
+            "In a deep saucepan, combine wine, sugar, cloves, and cinnamon stick. Bring to a simmer.",
+            "Submerge the peeled pears in the liquid. Cover with a parchment paper cartouche to keep them submerged.",
+            "Simmer gently for 20-30 minutes until tender.",
+            "Remove pears. Boil the remaining liquid until reduced to a thick syrup. Serve pears drizzled with the syrup."
+        ],
+        "allergen_warnings": [
+            "Sulfites (Red Wine)",
+            "Eugenol Sensitization (Cloves)"
+        ],
+        "key_flavor_molecules": [
+            "Eugenol",
+            "Cinnamaldehyde",
+            "Ethyl Decanoate"
+        ]
+    },
+    "Dark Chocolate and Orange Truffles": {
+        "name": "Dark Chocolate and Orange Truffles",
+        "description": "Bite-sized confections that perfectly balance the bitterness of cocoa with the brightness of orange essence.",
+        "ingredients_list": [
+            "8 oz 70% Dark Chocolate, finely chopped",
+            "1/2 cup Heavy Cream",
+            "1 tbsp Orange Liqueur (e.g., Grand Marnier)",
+            "1/2 cup Cocoa Powder (for rolling)"
+        ],
+        "instructions": [
+            "Place chocolate in a bowl. Scald the heavy cream and pour over the chocolate. Let sit for 3 minutes, then whisk until smooth.",
+            "Stir in the orange liqueur.",
+            "Refrigerate the mixture for 2 hours until firm.",
+            "Scoop into small balls, roll in your hands, then toss in cocoa powder to coat. Keep refrigerated."
+        ],
+        "allergen_warnings": [
+            "Dairy (Heavy Cream)",
+            "Cocoa Sensitization (Chocolate, Cocoa Powder)",
+            "Alcohol (Liqueur)",
+            "Caffeine/Tyramine (Chocolate)"
+        ],
+        "key_flavor_molecules": [
+            "Theobromine",
+            "Limonene"
+        ]
+    },
+    "Chili-Infused Dark Chocolate Tart": {
+        "name": "Chili-Infused Dark Chocolate Tart",
+        "description": "A sophisticated dessert where the capsaicin heat slowly builds, complementing the deep earthy notes of the chocolate.",
+        "ingredients_list": [
+            "1 pre-baked Chocolate Tart Shell",
+            "10 oz Dark Chocolate",
+            "1 cup Heavy Cream",
+            "1/2 tsp Cayenne Pepper",
+            "1/2 tsp Cinnamon"
+        ],
+        "instructions": [
+            "Simmer the cream with the cayenne pepper and cinnamon. Remove from heat and let steep for 15 minutes.",
+            "Strain the infused cream, reheat slightly, and pour over the chopped dark chocolate.",
+            "Whisk until a smooth ganache forms. Pour into the prepared tart shell.",
+            "Chill for 3 hours until set before slicing."
+        ],
+        "allergen_warnings": [
+            "Dairy (Heavy Cream, Butter in shell)",
+            "Wheat/Gluten (Tart Shell)",
+            "Cocoa Sensitization/Caffeine (Chocolate)",
+            "Capsaicin Sensitivity (Cayenne)"
+        ],
+        "key_flavor_molecules": [
+            "Theobromine",
+            "Capsaicin",
+            "Cinnamaldehyde"
+        ]
+    },
+    "Mocha Panna Cotta": {
+        "name": "Mocha Panna Cotta",
+        "description": "A flawless pairing of coffee and dark chocolate flavors in a silky Italian dessert format.",
+        "ingredients_list": [
+            "2 cups Heavy Cream",
+            "1/4 cup Sugar",
+            "2 tbsp Espresso Powder",
+            "4 oz Dark Chocolate, chopped",
+            "1.5 tsp Unflavored Gelatin"
+        ],
+        "instructions": [
+            "Bloom gelatin in cold water.",
+            "Heat cream and sugar until simmering. Remove from heat and whisk in the espresso powder and chopped chocolate until smooth.",
+            "Whisk in the bloomed gelatin.",
+            "Pour into molds and refrigerate for 4 hours until firm."
+        ],
+        "allergen_warnings": [
+            "Dairy (Heavy Cream)",
+            "Cocoa Sensitization (Chocolate)",
+            "Caffeine (Espresso Powder, Chocolate)",
+            "Tyramine (Chocolate)"
+        ],
+        "key_flavor_molecules": [
+            "Theobromine",
+            "Pyrazine",
+            "Furan-2-ylmethanethiol"
+        ]
+    },
+    "Coffee-Rubbed Steak": {
+        "name": "Coffee-Rubbed Steak",
+        "description": "The deep roasted, bitter notes of coffee perfectly mirror the Maillard reactions of seared beef.",
+        "ingredients_list": [
+            "1 Ribeye Steak",
+            "2 tbsp Finely Ground Coffee",
+            "1 tbsp Brown Sugar",
+            "1 tbsp Smoked Paprika",
+            "Salt and Black Pepper"
+        ],
+        "instructions": [
+            "Mix ground coffee, brown sugar, paprika, salt, and pepper to create a rub.",
+            "Generously coat the steak in the rub and let sit at room temp for 30 mins.",
+            "Pan-sear in cast iron over high heat until crusted on both sides.",
+            "Rest for 10 minutes before slicing."
+        ],
+        "allergen_warnings": [
+            "Alpha-gal Syndrome (Rare)",
+            "Caffeine (Coffee)",
+            "Spice Sensitization (Paprika/Pepper)"
+        ],
+        "key_flavor_molecules": [
+            "Methional",
+            "Pyrazine",
+            "Furan-2-ylmethanethiol"
+        ]
+    },
+    "Beef Skewers with Garlic-Peppercorn Glaze": {
+        "name": "Beef Skewers with Garlic-Peppercorn Glaze",
+        "description": "Savory beef heightened by pungent roasted garlic and the sharp piney bite of black pepper.",
+        "ingredients_list": [
+            "1 lb Beef Sirloin, cubed",
+            "4 cloves Garlic, minced",
+            "1 tbsp Cracked Black Pepper",
+            "2 tbsp Soy Sauce",
+            "1 tbsp Honey"
+        ],
+        "instructions": [
+            "Thread beef onto skewers.",
+            "Whisk garlic, black pepper, soy sauce, and honey to create the glaze.",
+            "Grill skewers over high heat, brushing constantly with the glaze until charred.",
+            "Serve immediately."
+        ],
+        "allergen_warnings": [
+            "Alpha-gal Syndrome (Rare)",
+            "Garlic Allergy",
+            "Piperine Sensitivity (Pepper)",
+            "Soy (Soy Sauce)"
+        ],
+        "key_flavor_molecules": [
+            "2-Methylfuran",
+            "Piperine",
+            "Allicin"
+        ]
+    },
+    "Umami Burger with Red Wine Jam": {
+        "name": "Umami Burger with Red Wine Jam",
+        "description": "An intense, savory profile balancing rich beef fat with the dark fruited notes of reduced red wine.",
+        "ingredients_list": [
+            "1/2 lb Ground Beef (80/20)",
+            "1/2 cup Red Wine",
+            "1 Red Onion, thinly sliced",
+            "1 tsp Balsamic Vinegar",
+            "Burger Bun"
+        ],
+        "instructions": [
+            "Simmer onions in olive oil until deeply caramelized.",
+            "Deglaze with red wine and balsamic vinegar, reducing until jammy.",
+            "Grill the beef patty to desired doneness.",
+            "Assemble burger topped with a thick layer of the red wine jam."
+        ],
+        "allergen_warnings": [
+            "Alpha-gal Syndrome (Rare)",
+            "Sulfites (Red Wine)",
+            "Wheat/Gluten (Bun)"
+        ],
+        "key_flavor_molecules": [
+            "Oleic acid",
+            "Eugenol",
+            "Ethyl Decanoate"
+        ]
+    },
+    "Salmon Crudo with Dill & Lemon": {
+        "name": "Salmon Crudo with Dill & Lemon",
+        "description": "Raw salmon whose fresh marine notes are elevated by vibrant lemon and herbaceous dill.",
+        "ingredients_list": [
+            "8 oz Sashimi-grade Salmon",
+            "1 tbsp Fresh Dill, chopped",
+            "Zest and Juice of 1 Lemon",
+            "2 tbsp Extra Virgin Olive Oil",
+            "Flaky Sea Salt"
+        ],
+        "instructions": [
+            "Thinly slice the salmon and arrange on a chilled plate.",
+            "Whisk olive oil and lemon juice, then drizzle over the fish.",
+            "Top with fresh dill, lemon zest, and flaky sea salt immediately before serving."
+        ],
+        "allergen_warnings": [
+            "Fish (Salmon)",
+            "Citrus Oil Sensitization (Lemon)"
+        ],
+        "key_flavor_molecules": [
+            "DHA",
+            "Limonene",
+            "Carvone"
+        ]
+    },
+    "Soy-Glazed Salmon Bowl": {
+        "name": "Soy-Glazed Salmon Bowl",
+        "description": "Rich, fatty salmon caramelized with deep umami soy sauce.",
+        "ingredients_list": [
+            "2 Salmon Fillets",
+            "3 tbsp Soy Sauce",
+            "1 tbsp Mirin",
+            "1 tbsp Sugar",
+            "Cooked White Rice"
+        ],
+        "instructions": [
+            "Whisk soy sauce, mirin, and sugar to make the glaze.",
+            "Broil the salmon on high, brushing generously with the glaze every 2 minutes.",
+            "Serve the caramelized salmon over warm white rice."
+        ],
+        "allergen_warnings": [
+            "Fish (Salmon)",
+            "Soy (Soy Sauce)",
+            "Wheat/Gluten (Soy Sauce)"
+        ],
+        "key_flavor_molecules": [
+            "Astaxanthin",
+            "Maltol",
+            "Methional"
+        ]
+    },
+    "Smoked Salmon and Carrot Ribbons": {
+        "name": "Smoked Salmon and Carrot Ribbons",
+        "description": "Earthy, sweet carrots offer a brilliant textural and flavor contrast to salty, smoky salmon.",
+        "ingredients_list": [
+            "4 oz Smoked Salmon",
+            "2 large Carrots",
+            "1 tbsp Lemon Juice",
+            "1 tbsp Olive Oil",
+            "Fresh Chives"
+        ],
+        "instructions": [
+            "Use a vegetable peeler to shave carrots into long, thin ribbons.",
+            "Toss ribbons with lemon juice and olive oil to lightly pickle.",
+            "Wrap ribbons loosely around folds of smoked salmon.",
+            "Garnish with chopped chives."
+        ],
+        "allergen_warnings": [
+            "Fish (Salmon)",
+            "Birch Pollen Cross-Reactivity (Carrot)"
+        ],
+        "key_flavor_molecules": [
+            "Guaiacol",
+            "Beta-Carotene",
+            "Trimethylamine"
+        ]
+    },
+    "Roasted Garlic Butter Steak": {
+        "name": "Roasted Garlic Butter Steak",
+        "description": "A classic pairing; pungent, sulfuric garlic rounds out the deep metallic savoriness of steak.",
+        "ingredients_list": [
+            "1 Strip Steak",
+            "1 whole head Garlic, roasted",
+            "3 tbsp Butter, softened",
+            "Fresh Thyme"
+        ],
+        "instructions": [
+            "Squeeze roasted garlic cloves from their skins and mash into the softened butter along with chopped thyme.",
+            "Sear steak over high heat until a crust forms.",
+            "Top the hot steak with a generous dollop of the roasted garlic butter as it rests."
+        ],
+        "allergen_warnings": [
+            "Alpha-gal Syndrome (Rare)",
+            "Garlic Allergy",
+            "Dairy (Butter)"
+        ],
+        "key_flavor_molecules": [
+            "Methional",
+            "Diallyl Disulfide",
+            "Diacetyl"
+        ]
+    },
+    "Tomato and Garlic Confit": {
+        "name": "Tomato and Garlic Confit",
+        "description": "Slow-cooking mellows garlic's bite into a sweet paste while deeply enriching the umami of the cherry tomatoes.",
+        "ingredients_list": [
+            "2 cups Cherry Tomatoes",
+            "1 head Garlic, cloves separated and peeled",
+            "1 cup Olive Oil",
+            "Salt and Pepper"
+        ],
+        "instructions": [
+            "Place tomatoes and peeled garlic cloves into a small baking dish.",
+            "Submerge completely in olive oil.",
+            "Bake at 250°F (120°C) for 2 hours until garlic is meltingly soft.",
+            "Store in the oil and use over crusty bread."
+        ],
+        "allergen_warnings": [
+            "Nightshade (Tomatoes)",
+            "Garlic Allergy"
+        ],
+        "key_flavor_molecules": [
+            "Allicin",
+            "Hexanal",
+            "Beta-Ionone"
+        ]
+    },
+    "Mushroom & Garlic Aglio e Olio": {
+        "name": "Mushroom & Garlic Aglio e Olio",
+        "description": "Earthy mushrooms act as sponges, soaking in the sharp, pungent sulfur compounds of gently sautéed garlic.",
+        "ingredients_list": [
+            "1/2 lb Spaghetti",
+            "6 cloves Garlic, thinly sliced",
+            "1 cup Cremini Mushrooms, sliced",
+            "1/2 cup Olive Oil",
+            "Red Pepper Flakes"
+        ],
+        "instructions": [
+            "Boil pasta until al dente.",
+            "Gently warm olive oil over medium-low heat. Add garlic and red pepper flakes, cooking until garlic is lightly golden.",
+            "Add mushrooms and sauté until browned.",
+            "Toss cooked pasta in the garlic-mushroom oil, adding pasta water to emulsify."
+        ],
+        "allergen_warnings": [
+            "Wheat/Gluten (Pasta)",
+            "Garlic Allergy",
+            "Capsaicin Sensitivity (Pepper Flakes)"
+        ],
+        "key_flavor_molecules": [
+            "1-Octen-3-ol",
+            "Diallyl Disulfide",
+            "Allicin"
+        ]
+    },
+    "Roasted Carrots with Orange & Ginger Glaze": {
+        "name": "Roasted Carrots with Orange & Ginger Glaze",
+        "description": "The bright citrus and sharp ginger elevate the deep, sweet earthiness of the roasted root vegetable.",
+        "ingredients_list": [
+            "1 lb Carrots, halved lengthwise",
+            "Juice of 1 Orange",
+            "1 tbsp Fresh Ginger, grated",
+            "1 tbsp Honey",
+            "1 tbsp Olive Oil"
+        ],
+        "instructions": [
+            "Toss carrots in olive oil, salt, and pepper. Roast at 400°F (200°C) for 25 mins.",
+            "Simmer orange juice, ginger, and honey until syrupy.",
+            "Toss the hot roasted carrots in the glaze before serving."
+        ],
+        "allergen_warnings": [
+            "Birch Pollen Cross-Reactivity (Carrot)",
+            "Citrus Oil Sensitization (Orange)"
+        ],
+        "key_flavor_molecules": [
+            "Beta-Carotene",
+            "Limonene",
+            "Zingerone"
+        ]
+    },
+    "Spiced Carrot Soup with Cinnamon": {
+        "name": "Spiced Carrot Soup with Cinnamon",
+        "description": "The warm, sweet spice of cinnamon enhances the natural sugars of the carrot in this velvety soup.",
+        "ingredients_list": [
+            "1 lb Carrots, chopped",
+            "1 Onion, chopped",
+            "4 cups Vegetable Broth",
+            "1 tsp Ground Cinnamon",
+            "1/2 cup Heavy Cream"
+        ],
+        "instructions": [
+            "Sauté onions and carrots until softened.",
+            "Add cinnamon and toast for 1 minute.",
+            "Pour in broth and simmer until carrots are completely tender (about 20 mins).",
+            "Blend until smooth, then stir in heavy cream."
+        ],
+        "allergen_warnings": [
+            "Birch Pollen Cross-Reactivity (Carrot)",
+            "Cinnamaldehyde Allergy",
+            "Dairy (Cream)"
+        ],
+        "key_flavor_molecules": [
+            "Terpinolene",
+            "Cinnamaldehyde",
+            "Eugenol"
+        ]
+    },
+    "Carrot Ribbon Salad with Salmon": {
+        "name": "Carrot Ribbon Salad with Salmon",
+        "description": "Earthy, sweet carrots offer a brilliant textural and flavor contrast to salty, smoky salmon.",
+        "ingredients_list": [
+            "4 oz Smoked Salmon",
+            "2 large Carrots",
+            "1 tbsp Lemon Juice",
+            "1 tbsp Olive Oil",
+            "Fresh Chives"
+        ],
+        "instructions": [
+            "Use a vegetable peeler to shave carrots into long, thin ribbons.",
+            "Toss ribbons with lemon juice and olive oil to lightly pickle.",
+            "Wrap ribbons loosely around folds of smoked salmon.",
+            "Garnish with chopped chives."
+        ],
+        "allergen_warnings": [
+            "Fish (Salmon)",
+            "Birch Pollen Cross-Reactivity (Carrot)"
+        ],
+        "key_flavor_molecules": [
+            "Guaiacol",
+            "Beta-Carotene",
+            "Trimethylamine"
+        ]
+    },
+    "Cinnamon Spiced Carrot Cake": {
+        "name": "Cinnamon Spiced Carrot Cake",
+        "description": "The quintessential pairing of earthy sweet carrot and warm baking spices.",
+        "ingredients_list": [
+            "2 cups Grated Carrots",
+            "2 cups Flour",
+            "2 tsp Ground Cinnamon",
+            "4 Eggs",
+            "1 cup Sugar",
+            "Cream Cheese Frosting"
+        ],
+        "instructions": [
+            "Whisk flour, cinnamon, sugar, and rising agents.",
+            "Fold in wet ingredients and grated carrots.",
+            "Bake at 350°F (175°C) for 35-40 minutes.",
+            "Cool completely before layering with cream cheese frosting."
+        ],
+        "allergen_warnings": [
+            "Wheat/Gluten (Flour)",
+            "Egg",
+            "Dairy (Frosting)",
+            "Cinnamaldehyde Allergy",
+            "Apiaceae Allergy (Carrot)"
+        ],
+        "key_flavor_molecules": [
+            "Cinnamaldehyde",
+            "Beta-Carotene",
+            "Coumarin"
+        ]
+    },
+    "Mexican Hot Chocolate": {
+        "name": "Mexican Hot Chocolate",
+        "description": "The warmth of cinnamon and chili perfectly accentuates the robust bitterness of dark cacao.",
+        "ingredients_list": [
+            "2 cups Whole Milk",
+            "4 oz Dark Chocolate, chopped",
+            "1 tsp Ground Cinnamon",
+            "Pinch of Cayenne Pepper"
+        ],
+        "instructions": [
+            "Heat milk in a saucepan until simmering.",
+            "Whisk in chopped chocolate, cinnamon, and cayenne until totally melted and frothy.",
+            "Serve immediately."
+        ],
+        "allergen_warnings": [
+            "Dairy (Milk)",
+            "Cocoa Sensitization",
+            "Cinnamaldehyde Allergy",
+            "Capsaicin Sensitivity"
+        ],
+        "key_flavor_molecules": [
+            "Theobromine",
+            "Cinnamaldehyde",
+            "Capsaicin"
+        ]
+    },
+    "Vanilla & Cinnamon Poached Apples": {
+        "name": "Vanilla & Cinnamon Poached Apples",
+        "description": "A comforting dessert where sweet vanilla bridges the gap between aromatic cinnamon and tart apples.",
+        "ingredients_list": [
+            "4 Apples, peeled and cored",
+            "2 cups Water",
+            "1 cup Sugar",
+            "1 Cinnamon Stick",
+            "1 tsp Vanilla Extract"
+        ],
+        "instructions": [
+            "Combine water, sugar, vanilla, and the cinnamon stick in a pot. Bring to a simmer.",
+            "Add apples, cover with a cartouche, and poach gently for 20 minutes.",
+            "Serve apples warm, drizzled with the reduced poaching syrup."
+        ],
+        "allergen_warnings": [
+            "Cinnamaldehyde Allergy",
+            "Balsam of Peru Cross-Reactivity (Vanilla)"
+        ],
+        "key_flavor_molecules": [
+            "Damascenone",
+            "Vanillin",
+            "Cinnamaldehyde"
+        ]
+    },
+    "Cacio e Pepe": {
+        "name": "Cacio e Pepe",
+        "description": "A masterclass in minimalism where the sharp, pungent bite of black pepper cuts perfectly through rich, salty sheep's milk cheese.",
+        "ingredients_list": [
+            "1/2 lb Bucatini or Spaghetti",
+            "1 cup Pecorino Romano, finely grated",
+            "1 tbsp Whole Black Peppercorns, freshly toasted and crushed"
+        ],
+        "instructions": [
+            "Boil pasta until al dente, reserving 1 cup of starchy pasta water.",
+            "Toast crushed pepper in a dry skillet until fragrant.",
+            "Whisk the Pecorino with a splash of hot pasta water in a bowl to form a thick paste.",
+            "Toss the pasta and pepper in the skillet, slowly adding the cheese paste and more water until a creamy emulsion forms."
+        ],
+        "allergen_warnings": [
+            "Wheat/Gluten (Pasta)",
+            "Dairy (Pecorino Romano)",
+            "Piperine Sensitivity"
+        ],
+        "key_flavor_molecules": [
+            "Piperine",
+            "Butyric Acid",
+            "Pinene"
+        ]
+    },
+    "Pepper-Crusted Beef Steak": {
+        "name": "Pepper-Crusted Beef Steak",
+        "description": "Steak au poivre style; a thick crust of black pepper provides intense heat that contrasts the rich fat and Maillard compounds of the beef.",
+        "ingredients_list": [
+            "1 Strip or Filet Steak",
+            "2 tbsp Coarsely Crushed Black Peppercorns",
+            "Salt",
+            "1 tbsp Olive Oil",
+            "1 tbsp Butter"
+        ],
+        "instructions": [
+            "Heavily salt the steak, then press the crushed black peppercorns firmly onto both sides to form a crust.",
+            "Heat oil in a cast iron skillet until smoking.",
+            "Sear steak for 3-4 minutes per side. Add butter in the final minute and baste to toast the pepper without burning.",
+            "Rest before slicing."
+        ],
+        "allergen_warnings": [
+            "Alpha-gal Syndrome (Rare)",
+            "Piperine Sensitivity",
+            "Dairy (Butter)"
+        ],
+        "key_flavor_molecules": [
+            "Piperine",
+            "Methional",
+            "Caryophyllene"
+        ]
+    }
+}
